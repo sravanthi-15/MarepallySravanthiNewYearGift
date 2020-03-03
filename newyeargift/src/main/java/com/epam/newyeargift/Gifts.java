@@ -22,7 +22,7 @@ public class Gifts {
 			Mangobite c = new Mangobite();
 			//taking input from user
 			char areMore = 'y';
-			System.out.println("\n1. Dark Chocolate\n2. Gems\n3. Coffee\n4. jamun\n5. rasgulla\n6. kalakhand");
+			System.out.println("\n1. Silk Chocolate\n2. Gems\n3. Coffee\n4. jamun\n5. chikki\n6. Kulfi");
 			while (areMore == 'y') {
 				System.out.println("Select what you find: ");
 		        int n = scan.nextInt();
